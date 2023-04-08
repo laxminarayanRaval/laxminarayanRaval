@@ -4,9 +4,9 @@
 - 📫 to reach me use Email :- laxminarayan.raval01@gmail.com
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=laxminarayanRaval&label=Popularity&color=04b78d&style=flat" alt="laxminarayanRaval" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=laxminarayanRaval&label=Popularity&color=04b78d&style=flat" alt="laxminarayanRaval" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxminarayanRaval" alt="laxminarayanRaval" /></a> </p>
+<p align="center"> <a href="https://github.com/laxminarayanRaval"><img src="https://github-profile-trophy.vercel.app/?username=laxminarayanRaval&no-frame=true&theme=onedark" alt="laxminarayanRaval" /></a> </p>
 
 
 <!---
